@@ -10,13 +10,21 @@ In this post, we will create a C++ Bank Management System Project with source co
 A Bank Management System is a software application that allows banks to manage and organize their customer accounts efficiently. It simplifies various banking operations such as account creation, deposit, withdrawal, and account maintenance.
 
 **Overview of C++ Bank Management System Project**
+
 In this Bank Management System project, we will implement the following features:
 
 **New Account Creation:** Users can create new bank accounts.
+
 **Deposit Amount:** Users can deposit money into their accounts.
+
 **Withdraw Amount:** Users can withdraw money from their accounts.
+
 **Balance Enquiry:** Users can check their account balances.
+
 **List of All Account Holders:** The system will display a list of all existing account holders.
+
 **Close an Account:** Users can close their accounts.
+
 **Modify an Account:** Users can update their account details.
-Now, let’s see the step-by-step working of that Bank Management System project in C++.
+
+
